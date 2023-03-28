@@ -17,7 +17,9 @@ Question 2
 Identify the following method and complete it with question 1 data.
 
 ![Q1](Question1d.png)
+
 ![Q2](Question2a.png)
+
 ![Q3](Question2answer.png)
 
 Question 3
