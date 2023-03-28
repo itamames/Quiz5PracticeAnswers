@@ -7,7 +7,7 @@ Write the storage representation for following data.
 
 ![Q1](Question1a.png)
 
-![Q3](Question1canswer.png)
+![Q3](Question1cAnswer.png)
 
 
 
